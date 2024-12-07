@@ -1,0 +1,750 @@
+Array
+(
+    [Patient_id] => 2
+    [matric_num] => 213349
+    [university] => University of Nigeria, Nsukka
+    [password] => $2y$10$S0WY8brLQ.LfC
+    [patientFirstName] => Amo
+    [patientLastName] => Pepper
+    [patientMaritialStatus] => 
+    [patientDOB] => 0000-00-00
+    [patientGender] => 
+    [patientAddress] => Aserifalayout
+    [patientPhone] => 08045451569
+    [patientEmail] => Pepper@gmail.com
+)
+Array
+(
+    [Patient_id] => 1
+    [matric_num] => 237015
+    [university] => Ahmadu Bello University
+    [password] => $2y$10$E37zXW6WyHQpl
+    [patientFirstName] => Garba
+    [patientLastName] => Joshua
+    [patientMaritialStatus] => 
+    [patientDOB] => 0000-00-00
+    [patientGender] => 
+    [patientAddress] => joshuagarbaife@gmail.com
+    [patientPhone] => 09069356077
+    [patientEmail] => joshuagarba922@gmail.com
+)
+Array
+(
+    [Patient_id] => 1
+    [matric_num] => 237015
+    [university] => Ahmadu Bello University
+    [password] => $2y$10$E37zXW6WyHQpl
+    [patientFirstName] => Garba
+    [patientLastName] => Joshua
+    [patientMaritialStatus] => 
+    [patientDOB] => 0000-00-00
+    [patientGender] => 
+    [patientAddress] => joshuagarbaife@gmail.com
+    [patientPhone] => 09069356077
+    [patientEmail] => joshuagarba922@gmail.com
+)
+Array
+(
+    [Patient_id] => 1
+    [matric_num] => 237015
+    [university] => Ahmadu Bello University
+    [password] => $2y$10$E37zXW6WyHQpl
+    [patientFirstName] => Garba
+    [patientLastName] => Joshua
+    [patientMaritialStatus] => 
+    [patientDOB] => 0000-00-00
+    [patientGender] => 
+    [patientAddress] => joshuagarbaife@gmail.com
+    [patientPhone] => 09069356077
+    [patientEmail] => joshuagarba922@gmail.com
+)
+Array
+(
+    [Patient_id] => 1
+    [matric_num] => 237015
+    [university] => Ahmadu Bello University
+    [password] => $2y$10$E37zXW6WyHQpl
+    [patientFirstName] => Garba
+    [patientLastName] => Joshua
+    [patientMaritialStatus] => 
+    [patientDOB] => 0000-00-00
+    [patientGender] => 
+    [patientAddress] => joshuagarbaife@gmail.com
+    [patientPhone] => 09069356077
+    [patientEmail] => joshuagarba922@gmail.com
+)
+Array
+(
+    [Patient_id] => 1
+    [matric_num] => 237015
+    [university] => Ahmadu Bello University
+    [password] => $2y$10$E37zXW6WyHQpl
+    [patientFirstName] => Garba
+    [patientLastName] => Joshua
+    [patientMaritialStatus] => 
+    [patientDOB] => 0000-00-00
+    [patientGender] => 
+    [patientAddress] => joshuagarbaife@gmail.com
+    [patientPhone] => 09069356077
+    [patientEmail] => joshuagarba922@gmail.com
+)
+Array
+(
+    [Patient_id] => 1
+    [matric_num] => 237015
+    [university] => Ahmadu Bello University
+    [password] => $2y$10$E37zXW6WyHQpl
+    [patientFirstName] => Garba
+    [patientLastName] => Joshua
+    [patientMaritialStatus] => 
+    [patientDOB] => 0000-00-00
+    [patientGender] => 
+    [patientAddress] => joshuagarbaife@gmail.com
+    [patientPhone] => 09069356077
+    [patientEmail] => joshuagarba922@gmail.com
+)
+Array
+(
+    [Patient_id] => 9
+    [matric_num] => 23000
+    [university] => Covenant University
+    [password] => $2y$10$FdzMESrUC8wJ9bF2NjK5FO6ojxD1.Lys.RilAxEqGYK/Im9Z4mbRO
+    [patientFirstName] => Garba
+    [patientLastName] => David
+    [patientMaritialStatus] => 
+    [patientDOB] => 0000-00-00
+    [patientGender] => 
+    [patientAddress] => 
+    [patientPhone] => 
+    [patientEmail] => 
+)
+Array
+(
+    [Patient_id] => 9
+    [matric_num] => 23000
+    [university] => Covenant University
+    [password] => $2y$10$FdzMESrUC8wJ9bF2NjK5FO6ojxD1.Lys.RilAxEqGYK/Im9Z4mbRO
+    [patientFirstName] => Garba
+    [patientLastName] => David
+    [patientMaritialStatus] => 
+    [patientDOB] => 0000-00-00
+    [patientGender] => 
+    [patientAddress] => 
+    [patientPhone] => 
+    [patientEmail] => 
+)
+Array
+(
+    [Patient_id] => 9
+    [matric_num] => 23000
+    [university] => Covenant University
+    [password] => $2y$10$FdzMESrUC8wJ9bF2NjK5FO6ojxD1.Lys.RilAxEqGYK/Im9Z4mbRO
+    [patientFirstName] => Garba
+    [patientLastName] => David
+    [patientMaritialStatus] => 
+    [patientDOB] => 0000-00-00
+    [patientGender] => 
+    [patientAddress] => 
+    [patientPhone] => 
+    [patientEmail] => 
+)
+Array
+(
+    [Patient_id] => 9
+    [matric_num] => 23000
+    [university] => Covenant University
+    [password] => $2y$10$FdzMESrUC8wJ9bF2NjK5FO6ojxD1.Lys.RilAxEqGYK/Im9Z4mbRO
+    [patientFirstName] => Garba
+    [patientLastName] => David
+    [patientMaritialStatus] => 
+    [patientDOB] => 0000-00-00
+    [patientGender] => 
+    [patientAddress] => 
+    [patientPhone] => 
+    [patientEmail] => 
+)
+Array
+(
+    [Patient_id] => 9
+    [matric_num] => 23000
+    [university] => Covenant University
+    [password] => $2y$10$FdzMESrUC8wJ9bF2NjK5FO6ojxD1.Lys.RilAxEqGYK/Im9Z4mbRO
+    [patientFirstName] => Garba
+    [patientLastName] => David
+    [patientMaritialStatus] => 
+    [patientDOB] => 0000-00-00
+    [patientGender] => 
+    [patientAddress] => 
+    [patientPhone] => 
+    [patientEmail] => 
+)
+Array
+(
+    [Patient_id] => 9
+    [matric_num] => 23000
+    [university] => Covenant University
+    [password] => $2y$10$FdzMESrUC8wJ9bF2NjK5FO6ojxD1.Lys.RilAxEqGYK/Im9Z4mbRO
+    [patientFirstName] => Garba
+    [patientLastName] => David
+    [patientMaritialStatus] => 
+    [patientDOB] => 0000-00-00
+    [patientGender] => 
+    [patientAddress] => 
+    [patientPhone] => 
+    [patientEmail] => 
+)
+Array
+(
+    [Patient_id] => 9
+    [matric_num] => 23000
+    [university] => Covenant University
+    [password] => $2y$10$FdzMESrUC8wJ9bF2NjK5FO6ojxD1.Lys.RilAxEqGYK/Im9Z4mbRO
+    [patientFirstName] => Garba
+    [patientLastName] => David
+    [patientMaritialStatus] => 
+    [patientDOB] => 0000-00-00
+    [patientGender] => 
+    [patientAddress] => 
+    [patientPhone] => 
+    [patientEmail] => 
+)
+Array
+(
+    [Patient_id] => 9
+    [matric_num] => 23000
+    [university] => Covenant University
+    [password] => $2y$10$FdzMESrUC8wJ9bF2NjK5FO6ojxD1.Lys.RilAxEqGYK/Im9Z4mbRO
+    [patientFirstName] => Garba
+    [patientLastName] => David
+    [patientMaritialStatus] => 
+    [patientDOB] => 0000-00-00
+    [patientGender] => 
+    [patientAddress] => 
+    [patientPhone] => 
+    [patientEmail] => 
+)
+Array
+(
+    [Patient_id] => 9
+    [matric_num] => 23000
+    [university] => Covenant University
+    [password] => $2y$10$FdzMESrUC8wJ9bF2NjK5FO6ojxD1.Lys.RilAxEqGYK/Im9Z4mbRO
+    [patientFirstName] => Garba
+    [patientLastName] => David
+    [patientMaritialStatus] => 
+    [patientDOB] => 0000-00-00
+    [patientGender] => 
+    [patientAddress] => 
+    [patientPhone] => 
+    [patientEmail] => 
+)
+Array
+(
+    [Patient_id] => 9
+    [matric_num] => 23000
+    [university] => Covenant University
+    [password] => $2y$10$FdzMESrUC8wJ9bF2NjK5FO6ojxD1.Lys.RilAxEqGYK/Im9Z4mbRO
+    [patientFirstName] => Garba
+    [patientLastName] => David
+    [patientMaritialStatus] => 
+    [patientDOB] => 0000-00-00
+    [patientGender] => 
+    [patientAddress] => 
+    [patientPhone] => 
+    [patientEmail] => 
+)
+Array
+(
+    [Patient_id] => 9
+    [matric_num] => 23000
+    [university] => Covenant University
+    [password] => $2y$10$FdzMESrUC8wJ9bF2NjK5FO6ojxD1.Lys.RilAxEqGYK/Im9Z4mbRO
+    [patientFirstName] => Garba
+    [patientLastName] => David
+    [patientMaritialStatus] => 
+    [patientDOB] => 0000-00-00
+    [patientGender] => 
+    [patientAddress] => 
+    [patientPhone] => 
+    [patientEmail] => 
+)
+Array
+(
+    [Patient_id] => 1
+    [matric_num] => 237015
+    [university] => Ahmadu Bello University
+    [password] => $2y$10$E37zXW6WyHQpl
+    [patientFirstName] => Garba
+    [patientLastName] => Joshua
+    [patientMaritialStatus] => 
+    [patientDOB] => 0000-00-00
+    [patientGender] => 
+    [patientAddress] => joshuagarbaife@gmail.com
+    [patientPhone] => 09069356077
+    [patientEmail] => joshuagarba922@gmail.com
+)
+Array
+(
+    [Patient_id] => 1
+    [matric_num] => 237015
+    [university] => Ahmadu Bello University
+    [password] => $2y$10$E37zXW6WyHQpl
+    [patientFirstName] => Garba
+    [patientLastName] => Joshua
+    [patientMaritialStatus] => 
+    [patientDOB] => 0000-00-00
+    [patientGender] => 
+    [patientAddress] => joshuagarbaife@gmail.com
+    [patientPhone] => 09069356077
+    [patientEmail] => joshuagarba922@gmail.com
+)
+Array
+(
+    [Patient_id] => 9
+    [matric_num] => 23000
+    [university] => Covenant University
+    [password] => $2y$10$FdzMESrUC8wJ9bF2NjK5FO6ojxD1.Lys.RilAxEqGYK/Im9Z4mbRO
+    [patientFirstName] => Garba
+    [patientLastName] => David
+    [patientMaritialStatus] => 
+    [patientDOB] => 0000-00-00
+    [patientGender] => 
+    [patientAddress] => 
+    [patientPhone] => 
+    [patientEmail] => 
+)
+Array
+(
+    [Patient_id] => 9
+    [matric_num] => 23000
+    [university] => Covenant University
+    [password] => $2y$10$FdzMESrUC8wJ9bF2NjK5FO6ojxD1.Lys.RilAxEqGYK/Im9Z4mbRO
+    [patientFirstName] => Garba
+    [patientLastName] => David
+    [patientMaritialStatus] => 
+    [patientDOB] => 0000-00-00
+    [patientGender] => 
+    [patientAddress] => 
+    [patientPhone] => 
+    [patientEmail] => 
+)
+Array
+(
+    [Patient_id] => 10
+    [matric_num] => 12345
+    [university] => University of Lagos
+    [password] => $2y$10$xY9YXc28YAe7t.M7OjwQnOzPlCLv9cG11zC2QKV4MXW.HGRafYiR2
+    [patientFirstName] => Ada Uche
+    [patientLastName] => dav
+    [patientMaritialStatus] => 
+    [patientDOB] => 0000-00-00
+    [patientGender] => 
+    [patientAddress] => 
+    [patientPhone] => 
+    [patientEmail] => 
+)
+Array
+(
+    [Patient_id] => 10
+    [matric_num] => 12345
+    [university] => University of Lagos
+    [password] => $2y$10$xY9YXc28YAe7t.M7OjwQnOzPlCLv9cG11zC2QKV4MXW.HGRafYiR2
+    [patientFirstName] => Ada Uche
+    [patientLastName] => dav
+    [patientMaritialStatus] => 
+    [patientDOB] => 0000-00-00
+    [patientGender] => 
+    [patientAddress] => 
+    [patientPhone] => 
+    [patientEmail] => 
+)
+Array
+(
+    [Patient_id] => 10
+    [matric_num] => 12345
+    [university] => University of Lagos
+    [password] => $2y$10$xY9YXc28YAe7t.M7OjwQnOzPlCLv9cG11zC2QKV4MXW.HGRafYiR2
+    [patientFirstName] => Ada Uche
+    [patientLastName] => dav
+    [patientMaritialStatus] => 
+    [patientDOB] => 0000-00-00
+    [patientGender] => 
+    [patientAddress] => 
+    [patientPhone] => 
+    [patientEmail] => 
+)
+Array
+(
+    [Patient_id] => 10
+    [matric_num] => 12345
+    [university] => University of Lagos
+    [password] => $2y$10$xY9YXc28YAe7t.M7OjwQnOzPlCLv9cG11zC2QKV4MXW.HGRafYiR2
+    [patientFirstName] => Ada Uche
+    [patientLastName] => dav
+    [patientMaritialStatus] => 
+    [patientDOB] => 0000-00-00
+    [patientGender] => 
+    [patientAddress] => 
+    [patientPhone] => 
+    [patientEmail] => 
+)
+Array
+(
+    [Patient_id] => 10
+    [matric_num] => 12345
+    [university] => University of Lagos
+    [password] => $2y$10$xY9YXc28YAe7t.M7OjwQnOzPlCLv9cG11zC2QKV4MXW.HGRafYiR2
+    [patientFirstName] => Ada Uche
+    [patientLastName] => dav
+    [patientMaritialStatus] => 
+    [patientDOB] => 0000-00-00
+    [patientGender] => 
+    [patientAddress] => 
+    [patientPhone] => 
+    [patientEmail] => 
+)
+Array
+(
+    [Patient_id] => 10
+    [matric_num] => 12345
+    [university] => University of Lagos
+    [password] => $2y$10$xY9YXc28YAe7t.M7OjwQnOzPlCLv9cG11zC2QKV4MXW.HGRafYiR2
+    [patientFirstName] => Ada Uche
+    [patientLastName] => dav
+    [patientMaritialStatus] => 
+    [patientDOB] => 0000-00-00
+    [patientGender] => 
+    [patientAddress] => 
+    [patientPhone] => 
+    [patientEmail] => 
+)
+Array
+(
+    [Patient_id] => 10
+    [matric_num] => 12345
+    [university] => University of Lagos
+    [password] => $2y$10$xY9YXc28YAe7t.M7OjwQnOzPlCLv9cG11zC2QKV4MXW.HGRafYiR2
+    [patientFirstName] => Ada Uche
+    [patientLastName] => dav
+    [patientMaritialStatus] => 
+    [patientDOB] => 0000-00-00
+    [patientGender] => 
+    [patientAddress] => 
+    [patientPhone] => 
+    [patientEmail] => 
+)
+Array
+(
+    [Patient_id] => 10
+    [matric_num] => 12345
+    [university] => University of Lagos
+    [password] => $2y$10$xY9YXc28YAe7t.M7OjwQnOzPlCLv9cG11zC2QKV4MXW.HGRafYiR2
+    [patientFirstName] => Ada Uche
+    [patientLastName] => dav
+    [patientMaritialStatus] => 
+    [patientDOB] => 0000-00-00
+    [patientGender] => 
+    [patientAddress] => 
+    [patientPhone] => 
+    [patientEmail] => 
+)
+Array
+(
+    [Patient_id] => 10
+    [matric_num] => 12345
+    [university] => University of Lagos
+    [password] => $2y$10$xY9YXc28YAe7t.M7OjwQnOzPlCLv9cG11zC2QKV4MXW.HGRafYiR2
+    [patientFirstName] => Ada Uche
+    [patientLastName] => dav
+    [patientMaritialStatus] => 
+    [patientDOB] => 0000-00-00
+    [patientGender] => 
+    [patientAddress] => 
+    [patientPhone] => 
+    [patientEmail] => 
+)
+Array
+(
+    [Patient_id] => 10
+    [matric_num] => 12345
+    [university] => University of Lagos
+    [password] => $2y$10$xY9YXc28YAe7t.M7OjwQnOzPlCLv9cG11zC2QKV4MXW.HGRafYiR2
+    [patientFirstName] => Ada Uche
+    [patientLastName] => dav
+    [patientMaritialStatus] => 
+    [patientDOB] => 0000-00-00
+    [patientGender] => 
+    [patientAddress] => 
+    [patientPhone] => 
+    [patientEmail] => 
+)
+Array
+(
+    [Patient_id] => 10
+    [matric_num] => 12345
+    [university] => University of Lagos
+    [password] => $2y$10$xY9YXc28YAe7t.M7OjwQnOzPlCLv9cG11zC2QKV4MXW.HGRafYiR2
+    [patientFirstName] => Ada Uche
+    [patientLastName] => dav
+    [patientMaritialStatus] => 
+    [patientDOB] => 0000-00-00
+    [patientGender] => 
+    [patientAddress] => 
+    [patientPhone] => 
+    [patientEmail] => 
+)
+Array
+(
+    [Patient_id] => 10
+    [matric_num] => 12345
+    [university] => University of Lagos
+    [password] => $2y$10$xY9YXc28YAe7t.M7OjwQnOzPlCLv9cG11zC2QKV4MXW.HGRafYiR2
+    [patientFirstName] => Ada Uche
+    [patientLastName] => dav
+    [patientMaritialStatus] => 
+    [patientDOB] => 0000-00-00
+    [patientGender] => 
+    [patientAddress] => 
+    [patientPhone] => 
+    [patientEmail] => 
+)
+Array
+(
+    [Patient_id] => 10
+    [matric_num] => 12345
+    [university] => University of Lagos
+    [password] => $2y$10$xY9YXc28YAe7t.M7OjwQnOzPlCLv9cG11zC2QKV4MXW.HGRafYiR2
+    [patientFirstName] => Ada Uche
+    [patientLastName] => dav
+    [patientMaritialStatus] => 
+    [patientDOB] => 0000-00-00
+    [patientGender] => 
+    [patientAddress] => 
+    [patientPhone] => 
+    [patientEmail] => 
+)
+Array
+(
+    [Patient_id] => 1
+    [matric_num] => 12345
+    [university] => University of Lagos
+    [password] => $2y$10$xY9YXc28YAe7t.M7OjwQnOzPlCLv9cG11zC2QKV4MXW.HGRafYiR2
+    [patientFirstName] => Ada Uche
+    [patientLastName] => dav
+    [patientMaritialStatus] => 
+    [patientDOB] => 0000-00-00
+    [patientGender] => 
+    [patientAddress] => 
+    [patientPhone] => 
+    [patientEmail] => 
+)
+Array
+(
+    [Patient_id] => 1
+    [matric_num] => 12345
+    [university] => University of Lagos
+    [password] => $2y$10$xY9YXc28YAe7t.M7OjwQnOzPlCLv9cG11zC2QKV4MXW.HGRafYiR2
+    [patientFirstName] => Ada Uche
+    [patientLastName] => dav
+    [patientMaritialStatus] => 
+    [patientDOB] => 0000-00-00
+    [patientGender] => 
+    [patientAddress] => 
+    [patientPhone] => 
+    [patientEmail] => 
+)
+Array
+(
+    [Patient_id] => 1
+    [matric_num] => 12345
+    [university] => University of Lagos
+    [password] => $2y$10$xY9YXc28YAe7t.M7OjwQnOzPlCLv9cG11zC2QKV4MXW.HGRafYiR2
+    [patientFirstName] => Ada Uche
+    [patientLastName] => dav
+    [patientMaritialStatus] => 
+    [patientDOB] => 0000-00-00
+    [patientGender] => 
+    [patientAddress] => 
+    [patientPhone] => 
+    [patientEmail] => 
+)
+Array
+(
+    [Patient_id] => 1
+    [matric_num] => 12345
+    [university] => University of Lagos
+    [password] => $2y$10$xY9YXc28YAe7t.M7OjwQnOzPlCLv9cG11zC2QKV4MXW.HGRafYiR2
+    [patientFirstName] => Ada Uche
+    [patientLastName] => dav
+    [patientMaritialStatus] => 
+    [patientDOB] => 0000-00-00
+    [patientGender] => 
+    [patientAddress] => 
+    [patientPhone] => 
+    [patientEmail] => 
+)
+Array
+(
+    [Patient_id] => 1
+    [matric_num] => 12345
+    [university] => University of Lagos
+    [password] => $2y$10$xY9YXc28YAe7t.M7OjwQnOzPlCLv9cG11zC2QKV4MXW.HGRafYiR2
+    [patientFirstName] => Ada Uche
+    [patientLastName] => dav
+    [patientMaritialStatus] => 
+    [patientDOB] => 0000-00-00
+    [patientGender] => 
+    [patientAddress] => 
+    [patientPhone] => 
+    [patientEmail] => 
+)
+Array
+(
+    [Patient_id] => 1
+    [matric_num] => 12345
+    [university] => University of Lagos
+    [password] => $2y$10$xY9YXc28YAe7t.M7OjwQnOzPlCLv9cG11zC2QKV4MXW.HGRafYiR2
+    [patientFirstName] => Ada Uche
+    [patientLastName] => dav
+    [patientMaritialStatus] => 
+    [patientDOB] => 0000-00-00
+    [patientGender] => 
+    [patientAddress] => 
+    [patientPhone] => 
+    [patientEmail] => 
+)
+Array
+(
+    [Patient_id] => 1
+    [matric_num] => 12345
+    [university] => University of Lagos
+    [password] => $2y$10$xY9YXc28YAe7t.M7OjwQnOzPlCLv9cG11zC2QKV4MXW.HGRafYiR2
+    [patientFirstName] => Ada Uche
+    [patientLastName] => dav
+    [patientMaritialStatus] => 
+    [patientDOB] => 0000-00-00
+    [patientGender] => 
+    [patientAddress] => 
+    [patientPhone] => 
+    [patientEmail] => 
+)
+Array
+(
+    [Patient_id] => 1
+    [matric_num] => 12345
+    [university] => University of Lagos
+    [password] => $2y$10$xY9YXc28YAe7t.M7OjwQnOzPlCLv9cG11zC2QKV4MXW.HGRafYiR2
+    [patientFirstName] => Ada Uche
+    [patientLastName] => dav
+    [patientMaritialStatus] => 
+    [patientDOB] => 0000-00-00
+    [patientGender] => 
+    [patientAddress] => 
+    [patientPhone] => 
+    [patientEmail] => 
+)
+Array
+(
+    [Patient_id] => 1
+    [matric_num] => 12345
+    [university] => University of Lagos
+    [password] => $2y$10$xY9YXc28YAe7t.M7OjwQnOzPlCLv9cG11zC2QKV4MXW.HGRafYiR2
+    [patientFirstName] => Ada Uche
+    [patientLastName] => dav
+    [patientMaritialStatus] => 
+    [patientDOB] => 0000-00-00
+    [patientGender] => 
+    [patientAddress] => 
+    [patientPhone] => 
+    [patientEmail] => 
+)
+Array
+(
+    [Patient_id] => 1
+    [matric_num] => 12345
+    [university] => University of Lagos
+    [password] => $2y$10$xY9YXc28YAe7t.M7OjwQnOzPlCLv9cG11zC2QKV4MXW.HGRafYiR2
+    [patientFirstName] => Ada Uche
+    [patientLastName] => dav
+    [patientMaritialStatus] => 
+    [patientDOB] => 0000-00-00
+    [patientGender] => 
+    [patientAddress] => 
+    [patientPhone] => 
+    [patientEmail] => 
+)
+Array
+(
+    [Patient_id] => 1
+    [matric_num] => 12345
+    [university] => University of Lagos
+    [password] => $2y$10$xY9YXc28YAe7t.M7OjwQnOzPlCLv9cG11zC2QKV4MXW.HGRafYiR2
+    [patientFirstName] => Ada Uche
+    [patientLastName] => dav
+    [patientMaritialStatus] => 
+    [patientDOB] => 0000-00-00
+    [patientGender] => 
+    [patientAddress] => 
+    [patientPhone] => 
+    [patientEmail] => 
+)
+Array
+(
+    [Patient_id] => 1
+    [matric_num] => 12345
+    [university] => University of Lagos
+    [password] => $2y$10$xY9YXc28YAe7t.M7OjwQnOzPlCLv9cG11zC2QKV4MXW.HGRafYiR2
+    [patientFirstName] => Ada Uche
+    [patientLastName] => dav
+    [patientMaritialStatus] => 
+    [patientDOB] => 0000-00-00
+    [patientGender] => 
+    [patientAddress] => 
+    [patientPhone] => 
+    [patientEmail] => 
+)
+Array
+(
+    [Patient_id] => 1
+    [matric_num] => 12345
+    [university] => University of Lagos
+    [password] => $2y$10$xY9YXc28YAe7t.M7OjwQnOzPlCLv9cG11zC2QKV4MXW.HGRafYiR2
+    [patientFirstName] => Ada Uche
+    [patientLastName] => dav
+    [patientMaritialStatus] => 
+    [patientDOB] => 0000-00-00
+    [patientGender] => 
+    [patientAddress] => 
+    [patientPhone] => 
+    [patientEmail] => 
+)
+Array
+(
+    [patient_id] => 1
+    [matric_num] => 12345
+    [university] => University of Lagos
+    [password] => $2y$10$xY9YXc28YAe7t.M7OjwQnOzPlCLv9cG11zC2QKV4MXW.HGRafYiR2
+    [patientFirstName] => Ada Uche
+    [patientLastName] => dav
+    [patientMaritialStatus] => 
+    [patientDOB] => 0000-00-00
+    [patientGender] => 
+    [patientAddress] => 
+    [patientPhone] => 
+    [patientEmail] => 
+)
+Array
+(
+    [patient_id] => 1
+    [matric_num] => 12345
+    [university] => University of Lagos
+    [password] => $2y$10$xY9YXc28YAe7t.M7OjwQnOzPlCLv9cG11zC2QKV4MXW.HGRafYiR2
+    [patientFirstName] => Ada Uche
+    [patientLastName] => dav
+    [patientMaritialStatus] => 
+    [patientDOB] => 0000-00-00
+    [patientGender] => 
+    [patientAddress] => 
+    [patientPhone] => 
+    [patientEmail] => 
+)
