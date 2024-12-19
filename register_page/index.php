@@ -191,6 +191,23 @@
                 customAlertCard.addClass("d-none");
             }, duration);
         }
+
+         const universities = [
+         "University of Lagos",
+         "Obafemi Awolowo University",
+         "Ahmadu Bello University",
+         "University of Nigeria, Nsukka",
+         "Covenant University",
+      ];
+
+      const universitySelect = document.getElementById("university");
+
+      universities.forEach((university) => {
+         const option = document.createElement("option");
+         option.value = university;
+         option.textContent = university;
+         universitySelect.appendChild(option);
+      });
     </script>
 </body>
 
