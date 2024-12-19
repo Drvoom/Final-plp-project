@@ -71,6 +71,67 @@
 
 
    <?php include_once $_SERVER['DOCUMENT_ROOT'] . "/components/footer.php" ?>
+   <script>
+      function handleSubmit(event) {
+         event.preventDefault();
+         const password = $("#password").val();
+         const matric_num = $("#matric_num").val();
+         const university = $("#university").val();
+         const messageElem = document.getElementById("message");
+
+         if (!matric_num) return customAlert("Matric no. can't be empty!", "error", 3000);
+         if (!password || password.length < 5) return customAlert("Password must be more than 5 characters!", "error", 3000);
+
+         $.post('/API/user.php', {
+            request: "login",
+            password,
+            university,
+            matric_num,
+         }, function(response) {
+            response = JSON.parse(response);
+
+            if (response.status === "success") {
+               customAlert("login successfully", "success", 3000);
+               setTimeout(() => {
+                  window.location.href = "/";
+               }, 1500);
+            } else {
+               customAlert(response.message, "error", 3000);
+            }
+         }).fail(function() {
+            customAlert("Could not send request. Please check your internet connection.", "error", 3000);
+         });
+      }
+
+      function customAlert(message, status, duration) {
+         const customAlertCard = $("#customAlert");
+         customAlertCard.html(message);
+         customAlertCard.removeClass("bg-danger").removeClass("bg-success");
+         customAlertCard.addClass(status === "success" ? "bg-success" : "bg-danger");
+         customAlertCard.removeClass("d-none");
+
+         setTimeout(() => {
+            customAlertCard.addClass("d-none");
+         }, duration);
+      }
+
+      const universities = [
+         "University of Lagos",
+         "Obafemi Awolowo University",
+         "Ahmadu Bello University",
+         "University of Nigeria, Nsukka",
+         "Covenant University",
+      ];
+
+      const universitySelect = document.getElementById("university");
+
+      universities.forEach((university) => {
+         const option = document.createElement("option");
+         option.value = university;
+         option.textContent = university;
+         universitySelect.appendChild(option);
+      });
+   </script>
 
 </body>
 
