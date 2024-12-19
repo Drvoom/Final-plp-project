@@ -112,16 +112,8 @@
             </div>
         </div>
     </section>
-    <script>
-        window.addEventListener("load", function() {
-            const preloader = document.getElementById("preloader");
-            preloader.style.display = "none";
-        });
-    </script>
+    <?php include_once $_SERVER['DOCUMENT_ROOT'] . "/components/footer.php" ?>
 
-    <!-- Bootstrap JS for collapsible navbar -->
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
-    <script src="https://code.jquery.com/jquery-3.7.1.js" integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4=" crossorigin="anonymous"></script>
 
     <script>
         function handleSubmit(event) {
@@ -199,26 +191,7 @@
                 customAlertCard.addClass("d-none");
             }, duration);
         }
-
-        const universities = [
-            "University of Lagos",
-            "Obafemi Awolowo University",
-            "Ahmadu Bello University",
-            "University of Nigeria, Nsukka",
-            "Covenant University",
-        ];
-
-        const universitySelect = document.getElementById("university");
-
-        universities.forEach((university) => {
-            const option = document.createElement("option");
-            option.value = university;
-            option.textContent = university;
-            universitySelect.appendChild(option);
-        });
     </script>
-
-
 </body>
 
 </html>
