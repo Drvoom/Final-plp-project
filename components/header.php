@@ -47,14 +47,13 @@ if (isset($_SESSION['patient_id'])) {
    <div class="container-fluid border bg-dark shadow mb-3 fixed-top">
       <div class="text-white align-items-center">
          <div>
-            <nav class="navbar navbar-light navbar-expand-xl">
+           
                <a class="title">Tel<span>Medicines</span></a>
 
                <!-- Hamburger Button for Mobile -->
                <button class="btn btn-primary d-sm-none" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasMenu" aria-controls="offcanvasMenu">
                   <i class="bi bi-list"></i>
                </button>
-            </nav>
          </div>
          <div class="col-md-4">
             <a class="nav-link" href="/patient/health_tips.php">
