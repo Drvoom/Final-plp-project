@@ -17,7 +17,7 @@
 
 <body>
    <!-- Navbar for both desktop and mobile -->
-   <nav class="navbar navbar-expand-lg navbar-light">
+   <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
       <div class="container-fluid">
          <a class="title">Tel<span>Medicines</span></a>
       </div>
