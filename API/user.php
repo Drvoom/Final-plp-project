@@ -10,19 +10,16 @@ if ($request === 'register') {
    global $conn;
 
    try {
-      $patient_matric_num = isset($_POST['patient_matric_num']) ? $_POST['patient_matric_num'] : null;
+      $email = isset($_POST['user_email']) ? $_POST['user_email'] : null;
       $password = isset($_POST['password']) ? $_POST['password'] : null;
-      $first_name = isset($_POST['first_name']) ? $_POST['first_name'] : null;
       $last_name = isset($_POST['last_name']) ? $_POST['last_name'] : null;
-      $patient_address = isset($_POST['patient_address']) ? $_POST['patient_address'] : null;
       $matric_num = isset($_POST['matric_num']) ? $_POST['matric_num'] : null;
       $university = isset($_POST['university']) ? $_POST['university'] : null;
-      $patient_num = isset($_POST['patient_num']) ? $_POST['patient_num'] : null;
 
       $hashedPassword = password_hash($password, PASSWORD_DEFAULT);
 
-      $query = "INSERT INTO patient (password, patientFirstName, patientLastName, patientEmail, patientAddress, matric_num, university, patientPhone) 
-                VALUES ('$hashedPassword', '$first_name', '$last_name', '$patient_matric_num', '$patient_address', '$matric_num', '$university', '$patient_num')";
+      $query = "INSERT INTO patient (password,  patientLastName, patientEmail,  matric_num, university) 
+                VALUES ('$hashedPassword',  '$last_name','$email', '$matric_num',  '$university')";
 
       $result = mysqli_query($conn, $query);
 
